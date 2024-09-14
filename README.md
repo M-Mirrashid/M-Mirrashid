@@ -9,6 +9,13 @@ Structure:
     Cost_Function: Defines the cost function to be minimized during the optimization process. This file includes detailed documentation of the cost function, its parameters, and any relevant assumptions.
     TransitSearch: The core of the optimization algorithm, implementing the search strategy inspired by the TS algorithm. This module is called by the Main File.
 
+Definition of the considered cost function:
+
+    Name: Branin
+    Best Cost: 0.397887
+    Best Response: (-pi,12.275); (pi,2.275); (9.42478,2.475)
+    Dimension: 2
+
 
 Citation:
 
