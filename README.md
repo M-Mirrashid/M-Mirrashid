@@ -1,4 +1,4 @@
-Transit Search Optimization Algorithm
+Transit Search Optimization Algorithm:
 
 This repository contains Python code implementing an optimization algorithm, Transit Search (TS), a cutting-edge optimization algorithm that draws inspiration from the remarkable method of exoplanet detection known as transit. The TS presents a novel astrophysics-inspired meta-heuristic approach to solving complex scientific problems. With more than 3800 planets detected using the transit technique by space telescopes, this algorithm harnesses the power of transit exploration and adapts it to the realm of optimization.
 
@@ -21,6 +21,8 @@ Requirements:
     List of required Python libraries: NumPy, Math, Matplotlib
 
 
-Contributions: Contributions are welcome! Please feel free to fork this repository and submit pull requests.
+Contributions: 
+
+Contributions are welcome! Please feel free to fork this repository and submit pull requests.
 
 
