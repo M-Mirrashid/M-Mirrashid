@@ -13,7 +13,7 @@ Definition of the considered cost function:
 
     Name: Branin
     Best Cost: 0.397887
-    Best Response: (-pi,12.275); (pi,2.275); (9.42478,2.475)
+    Best Solution: (-pi,12.275); (pi,2.275); (9.42478,2.475)
     Dimension: 2
 
 
